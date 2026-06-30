@@ -1,0 +1,9 @@
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Matplotlib
+- Seaborn
+- Joblib
+- Jupyter Notebook
