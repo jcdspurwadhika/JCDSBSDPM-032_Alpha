@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
